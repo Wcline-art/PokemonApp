@@ -1,0 +1,12 @@
+{
+  "name": "PokemonApp",
+  "displayName": "PokemonApp",
+  "expo": {
+    "name": "PokemonApp",
+    "slug": "PokemonApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
